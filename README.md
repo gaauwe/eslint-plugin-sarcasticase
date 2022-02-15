@@ -26,3 +26,4 @@ Supports fixing all existing variables by running `eslint --fix`
 ### Demo
 
 ![demo](./demo/sarcasticase-demo.gif)
+[result](./demo/result.png)
