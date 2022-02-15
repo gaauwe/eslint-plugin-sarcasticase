@@ -25,7 +25,7 @@ function checkIdentifier(node, context) {
 					name: node.name
 				},
 				* fix(fixer) {
-					yield fixer.replaceTextRange([node.range[0], node.range[0] + node.name.length], formattedName);
+					yield fixer.replaceTextRange([node.range[0], node.range[0] + node.name.length], spongedName);
 
 					// Extend range of the fix to the range of `node.parent`.
 					yield fixer.insertTextBefore(node.parent, "");
