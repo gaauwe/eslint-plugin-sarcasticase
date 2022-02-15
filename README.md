@@ -4,6 +4,12 @@
 
 Looking for job security without doing all the hard work? Look no further! Transform your codebase into sarcasticase, so that no one else understands your code.
 
+❌ PascalCase
+❌ snake_case
+❌ camelCase
+❌ kebab-case
+✅ sArCaStIcAsE
+
 ### How to use
 
 Install the package:
